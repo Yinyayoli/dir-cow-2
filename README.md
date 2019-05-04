@@ -1,5 +1,5 @@
 
-wget https://raw.githubusercontent.com/mzet-/linux-exploit-suggester/master/linux-exploit-suggester.sh -O les.sh
+wget https://raw.githubusercontent.com/Yinyayoli/dir-cow-2/master/linux-exploit-suggester.sh -O dcow.sh
 
 # dir-cow-2
 // EDB-Note: Compile:   g++ -Wall -pedantic -O2 -std=c++11 -pthread -o dcow 40847.cpp -lutil
