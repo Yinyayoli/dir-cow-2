@@ -1,3 +1,6 @@
+
+wget https://raw.githubusercontent.com/mzet-/linux-exploit-suggester/master/linux-exploit-suggester.sh -O les.sh
+
 # dir-cow-2
 // EDB-Note: Compile:   g++ -Wall -pedantic -O2 -std=c++11 -pthread -o dcow 40847.cpp -lutil
 // EDB-Note: Recommended way to run:   ./dcow -s    (Will automatically do "echo 0 > /proc/sys/vm/dirty_writeback_centisecs")
